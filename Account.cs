@@ -9,6 +9,6 @@ public class Account
     {
         Console.WriteLine("Nisse was here");
         Console.WriteLine("Jonte");
-        Console.WriteLine("Oops inte bra");
+        Console.WriteLine("Jonte igen");
     }
 }
